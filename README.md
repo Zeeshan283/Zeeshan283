@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Industrymall](private)
 
-- 🌱 I’m currently learning **Cyber Security, Django, asp.net**
+- 🌱 I’m currently learning **Web Development,laravel,  Django,**
 
 - 👯 I’m looking to collaborate on **Cyber Security experts**
 
