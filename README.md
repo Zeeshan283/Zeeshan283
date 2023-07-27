@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Zeeshan Ahmad</h1>
-<h3 align="center">Cyber Security Expert</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeeshan283&label=Profile%20views&color=0e75b6&style=flat" alt="zeeshan283" /> </p>
 
 <p align="left"> <a href="https://twitter.com/hacker_283" target="blank"><img src="https://img.shields.io/twitter/follow/hacker_283?logo=twitter&style=for-the-badge" alt="hacker_283" /></a> </p>
 
-- 🔭 I’m currently working on [CSDO](private)
+- 🔭 I’m currently working on [Industrymall](private)
 
 - 🌱 I’m currently learning **Cyber Security, Django, asp.net**
 
