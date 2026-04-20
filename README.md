@@ -1,96 +1,108 @@
-<h1 align="center">🚀 Zeeshan Ahmad</h1>
-<h3 align="center">Full Stack Developer | Laravel Expert | Problem Solver | Building Scalable Digital Products</h3>
+<h1 align="center">Zeeshan Ahmad</h1>
+<h3 align="center">Senior Full Stack Developer | Laravel Specialist | Scalable Web Solutions</h3>
 
 <p align="center">
-From Pakistan 🇵🇰 • Passionate about clean code, performance, and innovation
+Pakistan 🇵🇰 | Building Reliable, High-Performance Applications
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Laravel+%7C+PHP+%7C+JavaScript+Expert;Building+Modern+Web+Applications;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&pause=1200&color=2563EB&center=true&vCenter=true&width=750&lines=Senior+Full+Stack+Developer;Laravel+%7C+PHP+%7C+JavaScript+Specialist;Scalable+Systems+%26+Clean+Architecture;Turning+Business+Ideas+Into+Products" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## Professional Summary
 
-💡 I am a results-driven **Full Stack Developer** with strong experience in building high-performance web applications, SaaS platforms, eCommerce systems, and custom business solutions.
+Experienced **Full Stack Developer** with a strong background in designing, developing, and maintaining secure, scalable, and performance-driven web applications.
 
-🔥 I specialize in transforming ideas into powerful digital products using modern technologies.
+Specialized in backend engineering with **Laravel / PHP**, modern frontend development, API architecture, database optimization, and business automation systems.
 
-⚡ What I bring to the table:
-
-- Clean, scalable & maintainable code  
-- Fast problem-solving skills  
-- UI + Backend expertise  
-- API integrations  
-- Performance optimization  
-- Real-world business solutions  
+Recognized for delivering production-ready solutions, solving complex technical challenges, and creating systems that support long-term growth.
 
 ---
 
-## 🛠️ Tech Stack
+## Core Competencies
+
+- Full Stack Web Development  
+- Laravel Application Architecture  
+- REST API Development & Integrations  
+- Database Design & Query Optimization  
+- Frontend Development (JavaScript / Vue.js)  
+- Payment Gateway Integration  
+- eCommerce & SaaS Platforms  
+- Performance Optimization  
+- Clean Code & Maintainability  
+- Problem Solving & Debugging  
+
+---
+
+## Technology Stack
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="38" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="38" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="38" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="38" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="38" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="38" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Insights
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=zeeshan283&theme=tokyonight&hide_border=true&border_radius=8" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeeshan283&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://streak-stats.demolab.com?user=zeeshan283&theme=default&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeeshan283&layout=compact&hide_border=true" height="170" />
 </p>
 
 ---
 
-## 🏆 What I Build
+## Areas of Delivery
 
-✅ Custom Laravel Applications  
-✅ SaaS Platforms  
-✅ eCommerce Websites  
-✅ Admin Dashboards  
-✅ APIs & Integrations  
-✅ Fast Landing Pages  
-✅ Automation Tools  
+- Enterprise Web Applications  
+- CRM / ERP Systems  
+- SaaS Products  
+- eCommerce Platforms  
+- Custom Dashboards  
+- API Ecosystems  
+- Internal Business Tools  
+- Workflow Automation Systems  
 
 ---
 
-## 🌍 Connect With Me
+## Professional Values
+
+- Quality Over Quantity  
+- Scalable Architecture  
+- Timely Delivery  
+- Clear Communication  
+- Long-Term Maintainability  
+- Business-Focused Development  
+
+---
+
+## Contact
 
 <p align="left">
   <a href="https://www.linkedin.com/in/zeeshan283" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 💬 Developer Mindset
-
-> "I don't just write code — I build solutions that create impact."
-
----
-
 <p align="center">
-🔥 If you're looking for a serious developer who gets things done — you're in the right place.
+Delivering software solutions with precision, reliability, and measurable business value.
 </p>
